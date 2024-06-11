@@ -1,0 +1,19 @@
+.firstpage{
+  width: auto;
+  height: auto;
+  padding: 60px;
+}
+.secondpage {
+  width: auto;
+  height: 780px;
+  background-color: #c6d9ec;
+}
+.thirdpage{
+  width: auto;
+  height: auto;
+}
+.fourthpage{
+  width: auto;
+  height: 760px;
+  background-color: rgb(57, 173, 179);
+}

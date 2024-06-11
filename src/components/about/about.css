@@ -1,0 +1,111 @@
+.about-us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    font-family: "Lucida Handwriting";
+}
+
+.about-us h1{
+    font-size: 80px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.about-us p{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 0;
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.reviews {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    margin-bottom: 60px;
+}
+
+.reviews img{
+    width: 50px;
+    height: 50px;
+}
+.reviews p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.arrow-icon:hover{
+    transform: scale(1.5);
+}
+
+.review1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 290px;
+    height: auto;
+    padding: 30px;
+    border-radius: 50px;
+    gap: 20px;
+    background-color: whitesmoke;
+}
+.review1:hover{
+    transform: scale(1.05);
+    border: 2px solid black;
+}
+
+
+.review2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 290px;
+    height: auto;
+    padding: 30px;
+    border-radius: 50px;
+    gap: 20px;
+    background-color: whitesmoke;
+}
+.review2:hover{
+    transform: scale(1.05);
+    border: 2px solid black;
+}
+
+.review3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 290px;
+    height: auto;
+    padding: 30px;
+    border-radius: 50px;
+    gap: 20px;
+    background-color: whitesmoke;
+}
+.review3:hover{
+    transform: scale(1.05);
+    border: 2px solid black;
+}
+
+.review1 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.review2 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.review3 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
